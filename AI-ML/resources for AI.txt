@@ -1,0 +1,59 @@
+
+---------------LLM, core ---------------------------------------------------------
+https://karpathy.ai/
+https://www.youtube.com/@AndrejKarpathy
+
+[1hr Talk] Intro to Large Language Models
+https://youtu.be/zjkBMFhNj_g?si=zs8ELAmyHt3YdP_E
+
+https://github.com/karpathy/llama2.c/blob/master/run.c
+
+LLM - basically 2 files in a dierectory - parameters , run.c
+
+Let's build GPT: from scratch, in code, spelled out.-
+https://youtu.be/kCc8FmEb1nY?si=vL5sfBgiHfGEryMo
+
+
+---------------Coursera, AWS AI ---------------------------------------------------------
+
+Generative AI with Large Language Models
+https://www.coursera.org/learn/generative-ai-with-llms
+
+
+---------------CUDA ---------------------------------------------------------
+CUDA Simply Explained - GPU vs CPU Parallel Computing for Beginners
+https://youtu.be/r9IqwpMR9TE?si=9qp8ebdSpWTZYM3D
+https://developer.nvidia.com/cuda-gpus
+
+
+---------------RAG ---------------------------------------------------------
+5:40min video-
+Local Retrieval Augmented Generation (RAG) from Scratch (step by step tutorial)
+https://youtu.be/qN_2fnOPY-M?si=BDcUQfHFhfXC5HNR
+https://github.com/mrdbourke/simple-local-rag
+https://github.com/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb
+
+
+Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer
+https://youtu.be/sVcwVQRHIc8?si=r5T_G0LHOo_O8P9P
+
+
+---------------LangChain ---------------------------------------------------------
+The LangChain Cookbook - Beginner Guide To 7 Essential Concepts
+https://youtu.be/2xxziIWmaSA?si=LTiL66XeU_X0VW_z
+
+LangChain Cookbook 👨‍🍳👩‍🍳
+https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb
+
+LangChain Conceptual Docs: https://docs.langchain.com/docs/categ...
+Python Docs: https://python.langchain.com/en/latest/
+JS/TS Docs: https://js.langchain.com/docs/
+
+
+LangChain for LLM Application Development
+https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction
+LangChain Chat with Your Data
+https://learn.deeplearning.ai/courses/langchain-chat-with-your-data/lesson/1/introduction
+
+
+

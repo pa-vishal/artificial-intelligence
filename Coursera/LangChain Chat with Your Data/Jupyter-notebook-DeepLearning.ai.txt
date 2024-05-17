@@ -1,0 +1,98 @@
+C:\Users\vpatil16\AppData\Local\Programs\Python\Python310\ford-venvs
+λ py -m venv jupyter_env_10_5_2024
+
+C:\Users\vpatil16\AppData\Local\Programs\Python\Python310\ford-venvs
+λ jupyter_env_10_5_2024\Scripts\activate.bat
+
+C:\Users\vpatil16\AppData\Local\Programs\Python\Python310\ford-venvs
+(jupyter_env_10_5_2024) λ py --version
+Python 3.10.10
+
+(jupyter_env_10_5_2024) λ where py
+C:\Windows\py.exe
+
+(jupyter_env_10_5_2024) λ python --version
+Python 3.10.10
+
+(jupyter_env_10_5_2024) λ where python
+C:\Users\vpatil16\AppData\Local\Programs\Python\Python310\ford-venvs\jupyter_env_10_5_2024\Scripts\python.exe
+
+
+(jupyter_env_10_5_2024) λ pip install notebook
+Collecting notebook
+  Downloading notebook-7.1.3-py3-none-any.whl (5.0 MB)
+     ---------------------------------------- 5.0/5.0 MB 1.5 MB/s eta 0:00:00
+Collecting notebook-shim<0.3,>=0.2
+  Downloading notebook_shim-0.2.4-py3-none-any.whl (13 kB)
+Collecting jupyter-server<3,>=2.4.0
+  Downloading jupyter_server-2.14.0-py3-none-any.whl (383 kB)
+     ---------------------------------------- 383.3/383.3 kB 2.2 MB/s eta 0:00:00
+Collecting tornado>=6.2.0
+  Downloading tornado-6.4-cp38-abi3-win_amd64.whl (436 kB)
+  ...
+  
+
+[notice] A new release of pip available: 22.3.1 -> 24.0
+[notice] To update, run: python.exe -m pip install --upgrade pip
+...
+...
+
+
+(jupyter_env_10_5_2024) λ jupyter notebook
+[I 2024-05-10 23:21:30.148 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-05-10 23:21:30.148 ServerApp] jupyter_server_terminals | extension was successfully linked.
+...
+...
+[I 2024-05-10 23:21:30.801 ServerApp] Serving notebooks from local directory: C:\Users\vpatil16\AppData\Local\Programs\Python\Python310\ford-venvs
+[I 2024-05-10 23:21:30.801 ServerApp] Jupyter Server 2.14.0 is running at:
+[I 2024-05-10 23:21:30.801 ServerApp] http://localhost:8888/tree?token=e028bbcdf5d6307f2093e66b10c094dff5fbffb444d32f51
+[I 2024-05-10 23:21:30.801 ServerApp]     http://127.0.0.1:8888/tree?token=e028bbcdf5d6307f2093e66b10c094dff5fbffb444d32f51
+[I 2024-05-10 23:21:30.801 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-05-10 23:21:30.918 ServerApp]
+
+    To access the server, open this file in a browser:
+        file:///C:/Users/vpatil16/AppData/Roaming/jupyter/runtime/jpserver-26952-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=e028bbcdf5d6307f2093e66b10c094dff5fbffb444d32f51
+        http://127.0.0.1:8888/tree?token=e028bbcdf5d6307f2093e66b10c094dff5fbffb444d32f51
+
+
+this opens   http://localhost:8888/tree
+
+
+New-> python3 (ipykernel)
+this opens new tab with notebook
+
+http://localhost:8888/notebooks/Untitled.ipynb
+
+
+
+OPENAI API----------------------------
+google .resume login 
+
+https://platform.openai.com/settings/organization/general
+org-orWJRcsi8EeMuhZkDPwQ7mHl
+
+create project-
+	First-POC
+
+Create new secret key dialog-
+Owned by - 
+	Service Account
+Service account ID-
+	first-poc-sa
+Project	
+	First-POC
+
+sk-first-poc-sa-9gD1YHhEtTIK7nMRv5kFT3BlbkFJoCglNUQvIHIIh3A3XNW7
+
+
+paid $15 
+
+https://platform.openai.com/settings/organization/billing/overview
+
+https://platform.openai.com/usage
+	
+
+https://community.deeplearning.ai/categories
+https://learn.deeplearning.ai/courses/langchain/lesson/5/question-and-answer

@@ -1,0 +1,59 @@
+Linear Systems and Guassian Elimination
+	Linear System and Definition•3 minutes
+	Three Solution Options and Coordinate System Visualization•3 minutes
+	Linear System -> Matrix (Coefficient and Augmented)•4 minutes
+	Rules of G.E. and Solving a Linear System•3 minutes
+	G.E. Intuition and Simple Example•5 minutes
+	G.E Example - Single Solution Part 1•12 minutes
+	G.E Example - Single Solution Part 2•7 minutes
+	G.E Example - Single Solution Part 3 + Meaning•3 minutes
+	G.E. Example - Infinite Solutions•3 minutes
+	G.E. Example - No Solutions•7 minutes
+	G.E. Advanced Example - Part 1•7 minutes
+	G.E. Advanced Example - Part 2•10 minutes
+
+Matrix Algebra
+	Matrix Algebra Sum•4 minutes•Preview module
+	Matrix Algebra Scale + Identity Overview•3 minutes
+	Matrix Multiplication + Small Example•8 minutes
+	Matrix Multiplication - General Rules•4 minutes
+	Matrix Multiplication Example•6 minutes
+	Identity Matrix + Example•6 minutes
+
+Properties of a Linear System	
+	Introduction to Vectors + Coordinates•7 minutes 
+	Introduction to Linear Combinations•2 minutes
+	Linear Combinations•2 minutes
+	Linear Combinations Example•10 minutes
+	Span•5 minutes
+	Span Example•9 minutes
+	Ax = b•8 minutes
+	Linear Independence•4 minutes
+	Linear Independence Example Part 1•8 minutes
+	Linear Independence Example Part 2•4 minutes
+	Columns of a Matrix Being Linearly Independent•4 minutes-
+	Linear Transformations•3 minutes
+	Linear Transformations Example•4 minutes
+	Matrix Inverse•4 minutes
+	Matrix Inverse Example•8 minutes
+	
+Determinant and Eigens
+	Determinant Intro and 2x2 Example•2 minutes 
+	Inverse of 2x2 Matrix - Quick Method•4 minutes
+	Determinant of 3x3 Matrix - Overview•7 minutes
+	Determinant of 3x3 Matrix - Example with 1st Row•6 minutes
+	Determinant of 3x3 Matrix - Example with 2nd Row•7 minutes
+	Eigenvalue and Eigenvector - Overview•5 minutes
+	Finding Eigenvector if Given Eigenvalue•8 minutes
+	Characteristic Polynomic - Finding Eigenvalues•7 minutes
+
+Projections and Least Squares
+	Transpose and Inner (Dot) Product•6 minutes•Preview module
+	Norm (Length) of a Vector•4 minutes
+	Unit Vector Creation•4 minutes
+	Distance Between Two Vectors•2 minutes
+	Orthogonal Vectors•4 minutes
+	Orthogonal Projections Part I•5 minutes
+	Orthogonal Projections Part II•2 minutes
+	Least Squares Overview•5 minutes
+	Least Squares Example•6 minutes

@@ -1,0 +1,30 @@
+Area Under The Curve: Explore the notion of area under a curve, how that relates to the integral and compute basic integrals.
+	Reading: Where to Find Help
+	Video: Integrals and Area under the Curve
+	Video: Fundamental Theorem of Calculus and Computing Simple Integrals
+	Video: Computing Area bounded by Lines and Curves
+	Video: Indefinite Integrals
+	Video: Integration by Parts
+	
+	
+Numerical Analysis Intro: Introduction to Numerical Analysis using 2 root-finding methods.
+	Video: Root-finding using Bisection Method
+	Video: Root-finding using Newton's Method	
+	
+
+Diagonalization & SVD : Explore general matrix decomposition, as well as a specialized and useful version called Singular Value Decomposition.
+	Video: Diagonalization Introduction
+	Video: Diagonalization
+	Video: Diagonalization Example 3x3
+	Video: Symmetric Matrix
+	Video: Diagonalization of Symmetric Matrix 3x3
+	Video: Singular Value Decomposition Overview
+	Video: Singular Value Decomposition Example	
+
+Partial Derivatives & Steepest Descent: Learn a core calculus- partial derivatives, as well as delving into directional derivatives and their usefulness in higher level statistics.
+	Video: Partial Derivatives Introduction
+	Video: Partial Derivatives examples, Part I
+	Video: Partial Derivatives examples, Part II
+	Video: Directional Derivatives with example
+	Video: Gradient Vectors & Steepest Descent
+	

@@ -1,0 +1,43 @@
+
+C1V1+C2V2+....+CnVn = b
+
+Linear Combinations:  are there any Ci that when multiplied to given vectors give a different vector.
+Vectors => known
+b => known 
+Ci  = ?
+
+we convert the Ci*Vi equation to coefficient matrix form and put b as augmented column to make it augmneted matrix. 
+Then we solve it by Guassian Elimination.
+
+Span:  what all possible b vectors when each Ci is given a different value
+Vi => known
+Ci => known (we try different values here. 
+b [] = []?
+
+
+Ax=b : find values for vector x (in another words - A multiplied by x will that equal to b for any b,  what is the solution set of b that is allowed ) :
+V or x []= []?  (this is x with just a single vector)
+Ci => known
+b  => known
+
+
+
+
+
+Guassian Elimination Online solver
+https://onlinemschool.com/math/assistance/equation/gaus/
+
+Matric Calculator
+https://matrixcalc.org/
+
+Linear combinations and span | Vectors and spaces | Linear Algebra | Khan Academy
+https://www.youtube.com/watch?v=Qm_OS-8COwU
+
+
+Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra
+https://youtu.be/k7RM-ot2NWY?si=hMtFGMeIxMe9PEEW
+
+
+INSANE Hack to Find Span of Any Vectors [Passing Linear Algebra]
+https://www.youtube.com/watch?v=9R6zQfd6vlQ
+

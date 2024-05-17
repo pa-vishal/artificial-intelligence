@@ -1,0 +1,9 @@
+stanford certification-
+https://www.coursera.org/specializations/machine-learning-introduction
+
+jupyter trial-
+https://jupyter.org/try-jupyter/lab/
+
+
+https://learn.deeplearning.ai/courses/langchain/lesson/5/question-and-answer
+https://www.coursera.org/specializations/data-science-python#courses

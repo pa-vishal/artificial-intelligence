@@ -1,0 +1,64 @@
+Algebra and Differential Calculus for Data Science
+University of Colorado Boulder
+
+Week 1
+	Algebra Review - Review of algebra concepts including functions and logarithms
+		Function Intro
+		Domain and Range
+		Piecewise functions
+		What Can You Do to a Function? (add multiply forms of 0 and 1 to solve fn)
+		Multiply Binomials (Polinomials) - (a+b)^2 = a^2 + 2ab + b^2
+		Rationalizing Denominators
+		Exponent Rules
+		Logarithms
+		Applications of Logarithms
+		
+Week 2
+	Induction Proofs, Limits and Continuity-Simple induction proofs and limits at infinity for functions
+		Induction Proofs
+			Proof by Induction
+		Limits at Infinity		
+		Limits at a Specific Point
+		Continuity of a Function
+				
+Week 3
+	Definition of a Derivative
+		Intro to Derivatives
+		Derivative of a Simple Function
+			f(x) = -x^2 + 3x and f'(x) = -2x + 3
+		Derivative of an Exponential Function
+			What is the derivative of  f(x)=5e^x -> 5e^x  
+		Derivative of a Constant
+			f(x)=2, f'(x)=0
+			f(x)=x^2 + 2, f'(x)=2x
+			
+		f(x)=x^3 -3x + 4e^x, f'(x)=3x^2 -3 + 4e^x
+		
+		
+Week 4
+	Product and Chain Rule -Use the product and chain rules to calculate the derivatives of more complicated functions.
+		Product Rule Part 1
+		Product Rule Part 2
+		Quotient Rule
+		Chain Rule
+		
+Week 5
+	Using Derivatives to Graph Functions- Use where derivatives are positive and negative to help graph a function.
+		Using the Derivative to Graph Functions Quiz
+		Finding Concavity with the Second Derivative Quiz
+		Comparing the Graphs of f(x) and f'(x) Quiz
+		Graphing Functions - A More Complicated Example Quiz
+
+Week 6
+	Finding Maximums and Minimums - Use derivatives to find the maximum and minimum values of functions.
+		Maxima and Minima of Functions
+		Applications of Maxima and Minima
+		Graphing Using Maxima and Minima
+		Rate of Change
+
+
+
+https://www.sfu.ca/math-coursenotes/Math%20157%20Course%20Notes/sec_InfLimits.html
+https://www.mathsisfun.com/calculus/derivatives-rules.html
+https://www.desmos.com/calculator/l0puzw0zvm
+https://www.transum.org/Maths/Activity/Graph/Desmos.asp

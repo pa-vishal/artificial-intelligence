@@ -1,0 +1,30 @@
+Learning Objectives
+	Use a graph or function definition to find function values.
+	Solve a simple equation algebraically.
+	Use a graph to determine the range and domains of functions.
+	Find piecewise function values analytically.
+	Visualize how piecewise functions behave by graphically deriving function values.
+	Gain experience performing operations on algebraic expressions for a variety of purposes.
+	Multiply binomial functions for expansion.
+	Practice methods of eliminating radicals in the denominator.
+	Apply a fundamental knowledge of logarithms to real-world applications.
+	Practice working with logarithm properties and how logarithm functions behave graphically.
+	Identify functions using graphs and find function values.
+	Solve algebraic problems using exponent rules.
+	
+	
+	
+
+What is a Function? (Algebraically and Graphically)
+
+function operates on an input and gives you a result, that's one result for the input that you give it. 
+The result could be repeated, but it can't be indeterminate
+
+For a curve to be called a graph of a function, it should pass vertical line test.
+ In this case, if a vertical line is drawn on the curve, if the point intersects the curve more than once, then curve does not represent a function. 
+A function f(x) needs to have one to one mapping between X (x1, x2...) and Y (y1,y2...). Each point x should have only one point y from f(x). 
+
+The valid parabola equation that is a function is: 
+	
+	y=ax2+bx+c=0, where a!=0. This is the graph of a function.
+	
